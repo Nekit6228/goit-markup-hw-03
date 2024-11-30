@@ -316,5 +316,5 @@ li {
     margin: 0;
 }
 .math{
-
+    width: calc((100% - 48px) / 3);
 }
