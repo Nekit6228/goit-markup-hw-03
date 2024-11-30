@@ -184,18 +184,8 @@ img{
 .ul-section-dva{
     display: flex;
     gap: 24px;
-    width: calc((100% - 72px) / 4);
 }
 .li-container{
     margin-bottom: 8px;
-}
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    padding: 0;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    border: 0;
+    width: calc((100% - 72px) / 4);
 }
