@@ -36,8 +36,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    display: flex;
-    margin-right: 40px;
 }
 .address-list:hover,
 .address-list:focus{
@@ -167,6 +165,10 @@ img{
     align-items: center;
 }
 .ul-logo{
+    display: flex;
+    gap: 40px;
+}
+.ul-list{
     display: flex;
     gap: 40px;
 }
