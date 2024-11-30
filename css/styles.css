@@ -184,8 +184,8 @@ img{
 .ul-section-dva{
     display: flex;
     gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
 .li-container{
     margin-bottom: 8px;
-    width: calc((100% - 72px) / 4);
 }
