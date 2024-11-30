@@ -172,7 +172,7 @@ p {
     margin-bottom: 16px;
 }
 .studio-footer{
-    color: #f4f4fd
+    color: #f4f4fd;
 }
 .text-footer{
     line-height: 1.5;
@@ -184,7 +184,7 @@ img{
     display: block;
 }
 .logo-header{
-    border-bottom:1px solid #e7e9fc ;
+    border-bottom:1px solid #e7e9fc;
 }
 .container{
     display: flex;
