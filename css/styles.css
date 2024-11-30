@@ -199,7 +199,7 @@ img{
     gap: 24px;
 }
 .foto-container {
-    width: calc((100% - 72px) / 4);
+    width: calc((100%-72px)/4);
 }
                 .visually-hidden {
                     position: absolute;
