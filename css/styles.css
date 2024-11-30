@@ -87,8 +87,6 @@ body {
 }
 .section-two{
     background-color: #F4F4FD;
-    padding: 120px 0 120px;
-    
 }
 .text-too{
     font-size: 36px;
@@ -179,4 +177,6 @@ img{
     display: flex;
     gap: 40px;
 }
-
+.section-dva{
+    padding: 120px 0 120px;
+}
