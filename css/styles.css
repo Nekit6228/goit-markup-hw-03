@@ -147,3 +147,9 @@ body {
 img{
     display: block;
 }
+.logo-header{
+    border-bottom:1px solid #e7e9fc ;
+}
+.div-header{
+    display: flex;
+}
