@@ -202,8 +202,7 @@ img{
     width: calc((100% - 72px) / 4);
 }
 .visually-hidden {
-    overflow: hidden;
-        white-space: nowrap;
+    display: none;
 }
 .foto-section {
     width: calc((100% - 72px) / 4);
