@@ -3,20 +3,24 @@ body {
     color: #434455;
     background-color: #FFFF
 }
+
 .logo-header {
     border-bottom: 1px solid #e7e9fc;
 }
+
 .container {
     display: flex;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px 0 15px;
 }
+
 .nav-logo {
     display: flex;
     align-items: center;
 }
-.web-logo{
+
+.web-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -24,16 +28,19 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    margin-right:76px;
+    margin-right: 76px;
 }
-.studio-logo{
+
+.studio-logo {
     color: #2e2f42;
 }
+
 .ul-logo {
     display: flex;
     gap: 40px;
 }
-.logo-list{
+
+.logo-list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -41,33 +48,40 @@ body {
     color: #2e2f42;
     padding: 24px 0;
 }
+
 .address-logo {
     font-style: normal;
 }
+
 .ul-list {
     display: flex;
     gap: 40px;
 }
+
 .logo-list:hover,
-.logo-list:focus{
+.logo-list:focus {
     color: #404bbf;
 }
-.address-list{
+
+.address-list {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .address-list:hover,
-.address-list:focus{
+.address-list:focus {
     color: #404bbf;
 }
-.section-one{
+
+.section-one {
     background-color: #2e2f42;
     padding: 188px 0 188px;
 }
-.effective-one{
-font-size: 56px;
+
+.effective-one {
+    font-size: 56px;
     font-weight: 700;
     color: #ffffff;
     line-height: 1.07;
@@ -75,28 +89,31 @@ font-size: 56px;
     letter-spacing: 0.02em;
     max-width: 496px;
 }
-.button-one{
-        font-family: "Roboto", sans-serif;
-            line-height: 1.5;
-            letter-spacing: 0.04em;
-            cursor: pointer;
-            background-color: #4d5ae5;
-            color: #ffffff;
-            font-size: 16px;
-            font-weight: 500;
-            display: block;
-            min-width: 169px;
-            height: 56px;
-            border: none;
-            border-radius: 4px;
-            margin-left: auto;
-            margin-right: auto;
-        }
+
+.button-one {
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    background-color: #4d5ae5;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .button-one:hover,
-.button-one:focus{
+.button-one:focus {
     background-color: #404BBF;
 }
-.hello-text{
+
+.hello-text {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -104,32 +121,37 @@ font-size: 56px;
     color: #2e2f42;
     margin-bottom: 8px;
 }
-.text-p{
+
+.text-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.section-two{
+
+.section-two {
     background-color: #F4F4FD;
     padding: 120px 0 120px;
 }
-.text-too{
+
+.text-too {
     text-align: center;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-transform: capitalize;
-        color: #2e2f42;
-        margin-bottom: 72px;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    margin-bottom: 72px;
 }
-.teamlist{
+
+.teamlist {
     background-color: #FFFFFF;
     display: flex;
     gap: 24px;
 
 }
-.text-name{
+
+.text-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -138,23 +160,26 @@ font-size: 56px;
     text-align: center;
     margin-bottom: 8px;
 }
-.class-text{
+
+.class-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     text-align: center;
 }
-.portfolio-text{
-        text-align: center;
-            font-size: 36px;
-            line-height: 1.11;
-            letter-spacing: 0.02em;
-            text-transform: capitalize;
-            color: #2e2f42;
-            margin-bottom: 72px;
+
+.portfolio-text {
+    text-align: center;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    margin-bottom: 72px;
 }
-.text-three{
+
+.text-three {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -162,17 +187,20 @@ font-size: 56px;
     color: #2e2f42;
     margin-bottom: 8px
 }
-.text-app{
+
+.text-app {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.footer-logo{
+
+.footer-logo {
     background-color: #2e2f42;
     padding: 100px 0;
 }
-.web-footer{
+
+.web-footer {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -183,10 +211,12 @@ font-size: 56px;
     display: inline-block;
     margin-bottom: 16px;
 }
-.studio-footer{
+
+.studio-footer {
     color: #f4f4fd;
 }
-.text-footer{
+
+.text-footer {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
@@ -195,16 +225,20 @@ font-size: 56px;
     display: inline-block;
     margin-bottom: 16px;
 }
-img{
+
+img {
     display: block;
 }
-.section-dva{
+
+.section-dva {
     padding: 120px 0 120px;
 }
-.ul-section-dva{
+
+.ul-section-dva {
     display: flex;
     gap: 24px;
 }
+
 .visually-hidden {
     text-align: center;
     line-height: 1.2;
@@ -220,33 +254,37 @@ img{
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-.textname{
+
+.textname {
     padding: 32px 0 32px;
 }
-.section-last{
+
+.section-last {
     padding-top: 120px;
     padding-bottom: 120px;
 }
-.list-sectionfor{
+
+.list-sectionfor {
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
 }
-.div-math{
+
+.div-math {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
 }
-.li-section{
+
+.li-section {
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
 }
-.lilili {
-    flex-basis: calc((100% - 3 * 24px) / 4)
-    border-radius: 0px 0px 4px 4px;
-}
 
+.lilili {
+    flex-basis: calc((100% - 3 * 24px) / 4) border-radius: 0px 0px 4px 4px;
+}
