@@ -215,6 +215,7 @@ img{
     width: calc((100% - 72px) / 4);
 }
     .visually-hidden {
+        display: block;
         display: none;
     }
 .foto-section {
