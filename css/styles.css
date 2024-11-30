@@ -198,7 +198,7 @@ img{
     display: flex;
     gap: 24px;
 }
-.foto-container {
+.matematika-logo {
     width: calc((100%-72px)/4);
 }
 .visually-hidden {
