@@ -202,7 +202,7 @@ img{
     width: calc((100% - 72px) / 4);
 }
 .visually-hidden {
-    display: none;
+    visibility: hidden;
 }
 .foto-section {
     width: calc((100% - 72px) / 4);
