@@ -97,9 +97,13 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;;
 }
 .teamlist{
     background-color: #FFFFFF;
+    display: flex;
+    gap: 24px;
+
 }
 .text-name{
     font-weight: 500;
@@ -191,4 +195,9 @@ img{
 }
 .visually-hidden {
     visibility: hidden;
+}
+.foto-section{
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+    
 }
