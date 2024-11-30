@@ -7,7 +7,9 @@ body {
 .logo-header {
     border-bottom: 1px solid #e7e9fc;
 }
-
+img {
+    display: block;
+}
 .container {
     display: flex;
     width: 1158px;
@@ -245,15 +247,9 @@ body {
     display: inline-block;
     margin-bottom: 16px;
 }
-
-img {
-    display: block;
-}
-
 .section-dva {
     padding: 120px 0 120px;
 }
-
 .ul-section-dva {
     display: flex;
     gap: 24px;
