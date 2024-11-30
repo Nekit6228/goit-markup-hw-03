@@ -144,3 +144,20 @@ body {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.list-logo{
+    border-bottom: 1px solid var(--cornflower);
+        width: 1440px;
+        height: 72px;
+}
