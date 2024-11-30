@@ -11,6 +11,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right:76px;
 }
 .studio-logo{
     color: #2e2f42;
@@ -21,6 +22,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 24px 0;
 }
 .logo-list:hover,
 .logo-list:focus{
@@ -34,6 +36,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    display: flex;
+    margin-right: 40px;
 }
 .address-list:hover,
 .address-list:focus{
@@ -152,4 +156,17 @@ img{
 }
 .div-header{
     display: flex;
+}
+.container{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.nav-logo{
+    display: flex;
+    align-items: center;
+}
+.ul-logo{
+    display: flex;
+    gap: 40px;
 }
