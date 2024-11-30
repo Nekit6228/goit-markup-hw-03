@@ -296,6 +296,7 @@ img {
 }
 .li-four {
     width: calc((100% - 48px) / 3); 
+    flex-basis: calc((100% - 48px) / 3);
 }
 a {
     text-decoration: none;
