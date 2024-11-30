@@ -203,18 +203,14 @@ img{
 }
         .visually-hidden {
                 position: absolute;
-                width: 1px;
-                height: 1px;
-                margin: -1px;
-                padding: 0;
-                border: 0;
-                clip: rect(0, 0, 0, 0);
-                /* Ensure content is clipped */
-                overflow: hidden;
-                clip-path: inset(50%);
-                /* Also clips the content */
-                white-space: nowrap;
-                /* Prevents wrapping */
+                    width: 1px;
+                    height: 1px;
+                    margin: -1px;
+                    padding: 0;
+                    border: 0;
+                    clip: rect(0, 0, 0, 0);
+                    overflow: hidden;
+                    white-space: nowrap;
             }
 .foto-section {
     width: calc((100% - 72px) / 4);
