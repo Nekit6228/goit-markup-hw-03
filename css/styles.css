@@ -3,6 +3,19 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+    padding: 0;
+}
 .web-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
