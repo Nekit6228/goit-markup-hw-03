@@ -112,7 +112,17 @@ body {
 .button-one:focus {
     background-color: #404BBF;
 }
+.li-section {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+    margin-bottom: 0
+}
 
+.li-four {
+    width: calc((100% - 48px) / 3);
+}
 .hello-text {
     font-weight: 500;
     font-size: 20px;
@@ -285,17 +295,6 @@ img {
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
-}
-
-.li-section {
-    display: flex;
-    flex-wrap: wrap;
-    column-gap: 24px;
-    row-gap: 48px;
-    margin-bottom: 0
-}
-.li-four {
-    width: calc((100% - 48px) / 3);
 }
 a {
     text-decoration: none;
