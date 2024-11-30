@@ -153,8 +153,10 @@ img{
 .logo-header{
     border-bottom:1px solid #e7e9fc ;
 }
-.container-one{
+.container{
     display: flex;
+    width: 1158px;
+    margin: 0;
 }
 .nav-logo{
     display: flex;
