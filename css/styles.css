@@ -43,7 +43,7 @@ body {
 }
 .section-one{
     background-color: #2e2f42;
-    padding-bottom: 188px;
+    padding: 188px 0 188px;
 }
 .effective-one{
     font-size: 56px;
