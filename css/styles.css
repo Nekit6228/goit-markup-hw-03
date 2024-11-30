@@ -190,6 +190,5 @@ img{
     margin-bottom: 8px;
 }
 .visually-hidden {
-    position: fixed;
-    transform: scale(0);
+    visibility: hidden;
 }
