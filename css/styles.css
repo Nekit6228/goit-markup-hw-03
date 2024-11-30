@@ -201,17 +201,19 @@ img{
 .foto-container {
     width: calc((100% - 72px) / 4);
 }
-        .visually-hidden {
-                position: absolute;
+                .visually-hidden {
+                    position: absolute;
                     width: 1px;
                     height: 1px;
                     margin: -1px;
-                    padding: 0;
                     border: 0;
-                    clip: rect(0, 0, 0, 0);
-                    overflow: hidden;
+                    padding: 0;
+        
                     white-space: nowrap;
-            }
+                    clip-path: inset(100%);
+                    clip: rect(0 0 0 0);
+                    overflow: hidden;
+                }
 .foto-section {
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
