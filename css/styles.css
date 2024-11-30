@@ -144,3 +144,12 @@ body {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+img{
+    display: block;
+}
+.header-logo{
+    border-bottom: 1px solid #e7e9fc;
+}
+.div-header{
+    display: flex;
+}
