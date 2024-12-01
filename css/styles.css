@@ -141,7 +141,7 @@ li {
 .button-one:focus {
     background-color: #404BBF;
 }
-.li-section {
+.ul-gogo {
     display: flex;
         flex-wrap: wrap;
         column-gap: 24px;
