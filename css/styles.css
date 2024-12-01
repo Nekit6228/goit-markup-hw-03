@@ -1,7 +1,8 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFF
+    background-color: #FFFF;
+    margin: 0;
 }
 
 .logo-header {
@@ -10,11 +11,15 @@ body {
 img {
     display: block;
 }
+main{
+    box-sizing: border-box;
+}
 .container {
     display: flex;
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px 0 15px;
+    max-width: 1158px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto;
 }
 
 .nav-logo {
@@ -146,7 +151,7 @@ img {
 
 .section-two {
     background-color: #F4F4FD;
-    padding: 120px 0 120px;
+    padding: 120px 0;
 }
 
 .text-too {
