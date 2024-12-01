@@ -240,8 +240,7 @@ li {
 }
 
 .web-footer {
-    display: inline-block;
-    font-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif; 
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -249,6 +248,7 @@ li {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-bottom: 16px;
+    display: inline-block;
 }
 .studio-footer {
     color: #f4f4fd;
@@ -260,8 +260,6 @@ li {
     letter-spacing: 0.02em;
     max-width: 264px;
     margin-bottom: 8px;
-    display: inline-block;
-    margin-bottom: 16px;
 }
 .section-dva {
     padding: 120px 0 120px;
