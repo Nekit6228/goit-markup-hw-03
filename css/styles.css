@@ -151,7 +151,7 @@ li {
 }
 
 .li-four {
-    width: calc((100% - 48px) / 3);
+    width: calc((100% - 48px) / 3) !important;
 }
 .hello-text {
     font-weight: 500;
