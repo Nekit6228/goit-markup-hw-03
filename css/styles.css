@@ -4,7 +4,11 @@ body {
     background-color: #FFFF;
     margin: 0;
 }
-
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
 .logo-header {
     border-bottom: 1px solid #e7e9fc;
 }
@@ -17,6 +21,7 @@ main{
 ul{
     padding-left: 0;
         margin: 0;
+        list-style-type: none;
 }
 .container {
     display: flex;
