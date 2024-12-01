@@ -29,7 +29,6 @@ li {
     margin: 0;
 }
 .container {
-    display: flex;
     max-width: 1158px;
         padding-left: 15px;
         padding-right: 15px;
@@ -309,4 +308,7 @@ li {
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+}
+.header-container{
+    display: flex;
 }
