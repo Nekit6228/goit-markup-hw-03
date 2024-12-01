@@ -142,11 +142,8 @@ li {
     background-color: #404BBF;
 }
 .ul-gogo {
-    background-color: white;
-        display: flex;
-        flex-wrap: wrap;
-        column-gap: 24px;
-        row-gap: 48px;
+        padding-top: 120px;
+            padding-bottom: 120px;
 }
 
 .li-four {
