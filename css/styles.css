@@ -148,13 +148,13 @@ li {
             flex-wrap: wrap;
             column-gap: 24px;
             row-gap: 48px;
-            list-style: none;
                 padding: 0;
                 margin: 0;
 }
 
 .li-four {
-    width: calc((100% - 48px) / 3) !important;
+    display: block;
+    width: calc((100% - 48px) / 3);
 }
 .hello-text {
     font-weight: 500;
