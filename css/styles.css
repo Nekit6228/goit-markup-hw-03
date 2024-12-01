@@ -145,6 +145,10 @@ li {
     background-color: white;
         padding-top: 120px;
         padding-bottom: 120px;
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 24px;
+        row-gap: 48px;
 }
 
 .li-four {
