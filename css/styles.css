@@ -19,6 +19,7 @@ h1 h2 h3 h4 h5 h6 p {
 ul{
     padding-left: 0;
     margin: 0;
+    list-style: none;
 }
 img {
     display: block;
@@ -83,6 +84,7 @@ li {
         gap: 40px;
 }
 .fotoli {
+    background-color: #FFFFFF;
     flex-basis: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
@@ -119,6 +121,7 @@ li {
         text-align: center;
         letter-spacing: 0.02em;
         max-width: 496px;
+        margin: 0 auto;
 }
 .button-one {
     font-family: "Roboto", sans-serif;
@@ -183,7 +186,6 @@ li {
 }
 
 .teamlist {
-    background-color: #FFFFFF;
     display: flex;
     gap: 24px;
 
